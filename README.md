@@ -1,3 +1,4 @@
+![](https://github.com/hargurjeet/LLMs-Chat-with-PDFs/blob/main/Chatbot.JPG)
 # LLM Chatbot
 
 LLM Chatbot is a question answering chatbot based on the LLM (Language, Logic, and Math) framework. It can read the data from the input PDF files and store them in the form of embeddings in the FAISS vector store. It can then answer the user’s questions based on the query asked by referring to the information from the vector store.
