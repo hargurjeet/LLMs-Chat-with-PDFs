@@ -5,3 +5,5 @@ python-dotenv
 streamlit
 tiktoken
 PyPDF2
+InstructorEmbedding
+sentence-transformers
